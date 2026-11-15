@@ -1,0 +1,10 @@
+# Go
+/server
+*.exe
+
+# Frontend
+web/node_modules/
+web/dist/
+
+# Разное
+.DS_Store
